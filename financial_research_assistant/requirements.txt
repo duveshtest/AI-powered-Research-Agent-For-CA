@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+python-dotenv
+chromadb
+google-generativeai
+alpha-vantage
+streamlit
+
+# For content_service.py (document processing - future implementation)
+# PyPDF2
+# pandas
+# openpyxl
+# python-pptx
+# beautifulsoup4 # For more advanced web scraping if view_text_website is insufficient
+# unstructured # For Unstructured-IO, if used
